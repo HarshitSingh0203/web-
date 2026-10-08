@@ -1,0 +1,1635 @@
+//program 1
+<html>
+    <head>
+        <title>sec 5B2</title>
+    </head>
+    <body>
+        
+
+<center>
+        <h3>United College of Engineering & Research</h3>
+        <h4>Computer Science & Engineering</h4>
+        <h4>Section Timetable : 3rd Year - B2</h4>
+</center>  
+<hr>      
+<table width="100%" border="0">
+<tr>
+    
+        <td>
+<b>Class Facilitator :</b>ANJALI DIWIVEDI <br>
+<b>Mobile No. :7651807263</b> </pre>
+    </td>
+
+<td align="right">
+        
+<b>Room No. :</b> C004<br>
+<b>W.E.F :</b> 22/07/2026
+</td></tr>
+</table>
+<table border="1" width="100%" cellspacing="0">
+
+<tr bgcolor="#D6EAF8">
+<th bgcolor="#AED6F1">Day / Time</th>
+<th>P1<br>09:00-09:50</th>
+<th>P2<br>09:50-10:40</th>
+<th>P3<br>10:40-11:30</th>
+<th>P4<br>11:30-12:20</th>
+<th>P5<br>12:20-13:10</th>
+<th>P6<br>13:10-14:00</th>
+<th>P7<br>14:00-14:50</th>
+<th>P8<br>14:50-15:40</th>
+<th>P9<br>15:40-16:30</th>
+</tr>
+
+<tr>
+<td bgcolor="#E6E6FA"><b>Mon</b></td>
+<td colspan="2" bgcolor="#85C1E9">Lab 3 DAA_LAB</td>
+<td bgcolor="#76D7C4">DBMS</td>
+<td bgcolor="#F5B7B1">DAA</td>
+<td></td>
+<td bgcolor="#D2B4DE">DE-I</td>
+<td bgcolor="#76D7C4">DBMS</td>
+<td bgcolor="#ABEBC6">DSA</td>
+<td bgcolor="#ABEBC6">DSA</td>
+</tr>
+
+<tr>
+<td bgcolor="#E6E6FA"><b>Tue</b></td>
+<td bgcolor="#F8C471">ENG_HS</td>
+<td bgcolor="#ABEBC6">DSA</td>
+<td bgcolor="#76D7C4">DBMS</td>
+<td bgcolor="#D7BDE2">ITCS</td>
+<td></td>
+<td bgcolor="#F1948A">DE-II</td>
+<td bgcolor="#FCF3CF">WT</td>
+<td bgcolor="#F8C471">ENG_HS</td>
+<td bgcolor="#76D7C4">DBMS</td>
+</tr>
+
+<tr>
+<td bgcolor="#E6E6FA"><b>Wed</b></td>
+<td colspan="2" bgcolor="#85C1E9">Lab 2 DBMS_LAB</td>
+<td bgcolor="#ABEBC6">DSA</td>
+<td bgcolor="#F5B7B1">DAA</td>
+<td></td>
+<td bgcolor="#D2B4DE">DE-I</td>
+<td bgcolor="#FCF3CF">WT</td>
+<td bgcolor="#F1948A">QUANTS</td>
+<td bgcolor="#F5B7B1">DAA</td>
+</tr>
+
+<tr>
+<td bgcolor="#E6E6FA"><b>Thu</b></td>
+<td bgcolor="#ABEBC6">DSA</td>
+<td bgcolor="#ABEBC6">DSA</td>
+<td bgcolor="#FCF3CF">WT</td>
+<td bgcolor="#D7BDE2">ITCS</td>
+<td></td>
+<td bgcolor="#F1948A">DE-II</td>
+<td bgcolor="#F8C471">ENG_HS</td>
+<td bgcolor="#76D7C4">DBMS</td>
+<td bgcolor="#FCF3CF">WT</td>
+</tr>
+
+<tr>
+<td bgcolor="#E6E6FA"><b>Fri</b></td>
+<td bgcolor="#FCF3CF">WT</td>
+<td bgcolor="#76D7C4">DBMS</td>
+<td bgcolor="#F1948A">DE-II</td>
+<td bgcolor="#F5B7B1">DAA</td>
+<td></td>
+<td bgcolor="#D2B4DE">DE-I</td>
+<td bgcolor="#D5D8DC">LR</td>
+<td colspan="2" bgcolor="#85C1E9">Lab 7 WT_LAB</td>
+</tr>
+
+<tr bgcolor="#D6EAF8">
+<th>Time</th>
+<th>09:00-10:00</th>
+<th>10:00-11:00</th>
+<th>11:00-12:00</th>
+<th>12:00-13:00</th>
+<th>13:00-14:00</th>
+<th>14:00-15:00</th>
+<th>15:00-16:00</th>
+<th>-</th>
+<th>-</th>
+</tr>
+
+<tr>
+<td bgcolor="#E6E6FA"><b>Sat</b></td>
+<td bgcolor="#F1948A">DE-II</td>
+<td bgcolor="#FCF3CF">WT</td>
+<td bgcolor="#F5B7B1">DAA</td>
+<td></td>
+<td bgcolor="#76D7C4">DBMS</td>
+<td bgcolor="#E5E7E9">LIB</td>
+<td bgcolor="#D2B4DE">DE-I</td>
+<td></td>
+<td></td>
+</tr>
+
+</table>
+<h3>Subject Hours Summary</h3>
+
+<table border="1" cellspacing="0" cellpadding="5" width="100%" bgcolor="#E6E6FA">
+
+<tr>
+    <th>Subject Code</th>
+    <th>Subject Name</th>
+    <th>Type</th>
+    <th>Faculty</th>
+    <th>Busy Slot</th>
+</tr>
+
+<tr>
+    <td>BCS052_IV</td>
+    <td>DATA ANALYTICS_IV (DA_IV)</td>
+    <td>Elective</td>
+    <td>ANUSHKA SRIVASTAVA</td>
+    <td>4</td>
+</tr>
+
+<tr>
+    <td>BCS055_ML_IV</td>
+    <td>M L_IV (ML_IV)</td>
+    <td>Elective</td>
+    <td>SUCHITRA DUTTA</td>
+    <td>4</td>
+</tr>
+
+<tr>
+    <td>BCS501</td>
+    <td>DATABASE MANAGEMENT SYSTEMS (DBMS)</td>
+    <td>Theory</td>
+    <td>DHARMENDRA KUMAR</td>
+    <td>7</td>
+</tr>
+
+<tr>
+    <td>BCS502</td>
+    <td>WEB TECHNOLOGY (WT)</td>
+    <td>Theory</td>
+    <td>ANJALI DIWIVEDI</td>
+    <td>6</td>
+</tr>
+
+<tr>
+    <td>BCS503</td>
+    <td>DESIGN ANALYSIS ALGORITHM (DAA)</td>
+    <td>Theory</td>
+    <td>SNEHLATA</td>
+    <td>6</td>
+</tr>
+
+<tr>
+    <td>BCS551</td>
+    <td>DBMS LAB (DBMS_LAB)</td>
+    <td>Lab</td>
+    <td>SHUBHAM SHUKLA</td>
+    <td>2</td>
+</tr>
+
+<tr>
+    <td>BCS552</td>
+    <td>WEB TECH LAB (WT_LAB)</td>
+    <td>Lab</td>
+    <td>ANJALI DIWIVEDI, MAHBOOB ALI</td>
+    <td>2</td>
+</tr>
+
+<tr>
+    <td>BCS553</td>
+    <td>DESIGN ANALYSIS ALGORITHM LAB (DAA_LAB)</td>
+    <td>Lab</td>
+    <td>SNEHLATA</td>
+    <td>2</td>
+</tr>
+
+<tr>
+    <td>DSA</td>
+    <td>DSA</td>
+    <td>Theory</td>
+    <td>PRASHANT SONI</td>
+    <td>6</td>
+</tr>
+
+<tr>
+    <td>ENG(HS)-3</td>
+    <td>ENG HARD SKILL (ENG_HS)</td>
+    <td>Theory</td>
+    <td>PREM KUMAR</td>
+    <td>2</td>
+</tr>
+
+<tr>
+    <td>ITCS</td>
+    <td>ITCS</td>
+    <td>Theory</td>
+    <td>SHIVANI MISHRA</td>
+    <td>2</td>
+</tr>
+
+<tr>
+    <td>LIBRARY-3</td>
+    <td>LIBRARY (LIB)</td>
+    <td>Theory</td>
+    <td>-</td>
+    <td>1</td>
+</tr>
+
+<tr>
+    <td>LR-3</td>
+    <td>LOGICAL REASONING (LR)</td>
+    <td>Theory</td>
+    <td>GAURAV GOSWAMI</td>
+    <td>1</td>
+</tr>
+
+<tr>
+    <td>Q-3</td>
+    <td>QUANTS (QUANTS)</td>
+    <td>Theory</td>
+    <td>MANISH TRIPATHI</td>
+    <td>1</td>
+</tr>
+
+</table>
+</body>
+//program 2
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Nested List Example</title>
+</head>
+<body>
+
+    <!-- Main Unordered List -->
+    <ul>
+        <li>Fruit
+            <!-- Nested Ordered List -->
+            <ol>
+                <li>Bananas</li>
+                <li>Apples
+                    <!-- Deeply Nested Square Bullet List -->
+                    <ul style="list-style-type: square;">
+                        <li>Green</li>
+                        <li>Red</li>
+                    </ul>
+                </li>
+                <li>Pears</li>
+            </ol>
+        </li>
+        <li>Vegetables</li>
+        <li>Meat</li>
+    </ul>
+
+</body>
+</html>
+//program 3
+// f1
+<html>
+<body bgcolor="lightblue">
+<center>
+<h2> Welcome</h2>
+<h3>HTML Frames Demo</h3>
+<p>Explore the four sections of this webpage.</p>
+</center>
+</body>
+</html>
+//
+//f2
+<html>
+<body bgcolor="lightgreen">
+<h2>📋 Navigation</h2>
+<ul>
+    <li>Home</li>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>Contact</li>
+</ul>
+</body>
+</html>
+// 
+//f3
+<html>
+<body bgcolor="lightcyan">
+
+<center>
+
+<h2>Student Profile</h2>
+
+<table border="2" cellpadding="10" bgcolor="white">
+<tr>
+<th>Name</th>
+<td>Harshit</td>
+</tr>
+
+<tr>
+<th>Course</th>
+<td>B.Tech CSE</td>
+</tr>
+
+<tr>
+<th>Skill</th>
+<td>HTML & CSS</td>
+</tr>
+
+<tr>
+<th>Goal</th>
+<td>Game Developer</td>
+</tr>
+</table>
+
+</center>
+
+</body>
+</html>
+//
+//f4
+<html>
+<body bgcolor="white">
+<center>
+
+<h2>Color Boxes</h2>
+
+<table cellspacing="10">
+<tr>
+<td bgcolor="red" width="80" height="80"></td>
+<td bgcolor="green" width="80" height="80"></td>
+<td bgcolor="blue" width="80" height="80"></td>
+</tr>
+
+<tr>
+<td bgcolor="yellow" width="80" height="80"></td>
+<td bgcolor="purple" width="80" height="80"></td>
+<td bgcolor="orange" width="80" height="80"></td>
+</tr>
+</table>
+
+</center>
+</body>
+</html>
+//
+//framw
+<html>
+<frameset cols="30%,35%,35%">
+    
+    <frameset rows="50%,50%">
+        <frame src="f1.html">
+        <frame src="f2.html">
+    </frameset>
+
+    <frame src="f3.html">
+    <frame src="f4.html">
+
+</frameset>
+</html>
+//
+//program 4
+<!DOCTYPE html>
+<html>
+<head>
+<title>UCER Institute Website</title>
+
+<style>
+*{box-sizing:border-box}
+body{margin:0;font-family:Arial;background:#eef4f7;color:#333}
+
+header{background:#09265c;color:white;padding:18px;text-align:center}
+header h1{margin:5px;font-size:25px}
+header p{margin:5px}
+
+nav{background:#123a78;padding:12px;text-align:center}
+nav a{color:white;text-decoration:none;margin:18px}
+
+.main{display:flex}
+.sidebar{width:220px;background:#e5edf2;padding:15px}
+.sidebar h3{background:#09265c;color:white;padding:12px;margin:0}
+.sidebar a{display:block;padding:12px;color:#222;text-decoration:none;border-bottom:1px solid #ccc}
+
+.content{flex:1;padding:20px}
+
+.welcome,.box{background:white;margin-bottom:20px;border:1px solid #ddd}
+.welcome{padding:25px;text-align:center}
+.welcome h2,.box h2,.mission h3{color:#09265c}
+
+.box h2{background:#09265c;color:white;padding:10px;margin:0}
+.box-content{padding:18px;line-height:1.6}
+
+.mission{display:flex;gap:20px;padding:18px}
+.mission div{flex:1;background:#f4f7fa;padding:18px;border-left:5px solid #09265c}
+
+footer{background:#09265c;color:white;text-align:center;padding:15px}
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>UNITED COLLEGE OF ENGINEERING & RESEARCH</h1>
+<p>Prayagraj, Uttar Pradesh</p>
+</header>
+
+<nav>
+<a href="#">Home</a>
+<a href="#">About</a>
+<a href="#">Departments</a>
+<a href="#">Facilities</a>
+<a href="#">Contact</a>
+</nav>
+
+<div class="main">
+
+<aside class="sidebar">
+<h3>Quick Links</h3>
+<a href="#">Home</a>
+<a href="#">About Institute</a>
+<a href="#">Mission & Vision</a>
+<a href="#">Departments</a>
+<a href="#">Facilities</a>
+<a href="#">Contact Us</a>
+
+<h3>Departments</h3>
+<a href="#">Computer Science</a>
+<a href="#">Electronics & Communication</a>
+<a href="#">Mechanical</a>
+<a href="#">Civil Engineering</a>
+</aside>
+
+<main class="content">
+
+<div class="welcome">
+<h2>Welcome to UCER</h2>
+<p>
+United College of Engineering and Research is a leading
+engineering institute providing quality education, technical
+knowledge and professional development.
+</p>
+</div>
+
+<div class="box">
+<h2>About Our Institute</h2>
+<div class="box-content">
+<p>
+United College of Engineering and Research (UCER) is committed
+to providing quality technical education and creating skilled
+professionals for the industry.
+</p>
+<p>
+The institute provides a suitable environment for learning,
+innovation, research and overall development of students.
+</p>
+</div>
+</div>
+
+<div class="box">
+<h2>Our Mission & Vision</h2>
+
+<div class="mission">
+<div>
+<h3>Mission</h3>
+<p>
+To provide quality education and develop technically skilled
+and responsible professionals.
+</p>
+</div>
+
+<div>
+<h3>Vision</h3>
+<p>
+To become a center of excellence in engineering education,
+innovation and research.
+</p>
+</div>
+</div>
+</div>
+
+</main>
+</div>
+
+<footer>
+© 2026 United College of Engineering & Research
+</footer>
+
+</body>
+</html>
+//
+//program 5
+///faculty
+  
+<html>
+<head>
+    <title>Faculty Registration Form</title>
+</head>
+
+<body bgcolor="lightseagreen">
+
+<center>
+
+<h1>Faculty Registration Form</h1>
+
+<form action="frame.html" method="post">
+
+<table  cellpadding="12" cellspacing="8"
+       bgcolor="slategray"
+       style="border-radius:25px;" >
+
+<tr>
+    <td>Faculty Name</td>
+    <td>
+        <input type="text" name="Faculty_name">
+    </td>
+</tr>
+
+<tr>
+    <td>Faculty ID</td>
+    <td>
+        <input type="text" name="Faculty_id" >
+    </td>
+</tr>
+
+<tr>
+    <td>Email ID</td>
+    <td>
+        <input type="email" name="Email_id" size="30">
+    </td>
+</tr>
+
+<tr>
+    <td>Mobile Number</td>
+    <td>
+        <input type="tel" name="Mobile_number" size="30">
+    </td>
+</tr>
+
+<tr>
+    <td>Date of Joining</td>
+    <td>
+        <input type="date" name="Date_of_Joining">
+    </td>
+</tr>
+
+<tr>
+    <td>Gender</td>
+    <td>
+        <input type="radio" name="gender" value="male"> Male
+        <input type="radio" name="gender" value="female"> Female
+        <input type="radio" name="gender" value="other"> Other
+    </td>
+</tr>
+
+<tr>
+    <td>Department</td>
+    <td>
+        <select name="Department">
+            <option>Computer Science & Engineering</option>
+            <option>Information Technology</option>
+            <option>Artificial Intelligence</option>
+            <option>Electronics & Communication</option>
+            <option>Mechanical Engineering</option>
+        </select>
+    </td>
+</tr>
+
+<tr>
+    <td>Designation</td>
+    <td>
+        <select name="Designation">
+            <option>Professor</option>
+            <option>Associate Professor</option>
+            <option>Assistant Professor</option>
+            <option>Lecturer</option>
+        </select>
+    </td>
+</tr>
+
+<tr>
+    <td>Qualification</td>
+    <td>
+        <input type="text" name="Qualification" size="30">
+    </td>
+</tr>
+
+<tr>
+    <td>Address</td>
+    <td>
+        <textarea name="Address" rows="4" cols="30"></textarea>
+    </td>
+</tr>
+
+<tr>
+    <td>Faculty Photo</td>
+    <td>
+        <input type="file" name="Faculty_photo">
+    </td>
+</tr>
+
+<tr>
+    <td colspan="2" align="center">
+        <input type="submit" value="Register">
+        <input type="reset" value="Reset">
+    </td>
+</tr>
+
+</table>
+
+</form>
+
+</center>
+
+</body>
+</html>
+//
+///Student
+<html>
+    <head>
+        <title>Student Registration Form  </title>
+    </head>
+    <body bgcolor="lightblue">
+        <center>
+            <h2> Registration Form </h2>
+            <form action="frame.html" method="post">
+            <table bgcolor="slategray"  cellpadding="12" cellspacing="8" style="border-radius: 25px;">
+            <tr>
+                <td>Name of Student</td>
+                <td><input type="text" name="first_name"></td>
+            </tr>
+            <tr>
+                <td>Login ID</td>
+                <td><input type="text" name="login_id"></td>
+            </tr>
+            <tr>
+                <td>Father's Name</td>
+                <td><input type="text" name="father_name"></td>
+            </tr>
+            <tr>
+                <td>Password</td>
+                <td><input type="password" name="password"></td>
+            </tr>
+            <tr>
+                <td>Mother's Name</td>
+                <td><input type="text" name="mother_name"></td>
+            </tr>
+            <tr>
+                <td>Date of Birth</td>
+                <td><input type="date" name="dob"></td>
+            </tr>
+            <tr>
+                <td>Gender</td>
+                <td>
+                    <input type="radio" name="gender" value="male"> Male
+                    <input type="radio" name="gender" value="female"> Female
+                    <input type="radio" name="gender" value="other"> Other
+                </td>
+            </tr>
+            <tr>
+                <td>Course</td>
+                <td>
+                    <select name="course">
+                        <option >Computer Science</option>
+                        <option >Artificial Intelligence</option>
+                        <option >Information Technology</option>
+                        <option >Machine Learning</option>
+                        <option > Mechanical Engineering</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td>Passport Size Image</td>
+                <td><input type="file" name="passport_image"></td>
+            </tr>
+            <tr>
+                <td>Address</td>
+                <td><textarea name="address"></textarea></td>
+            </tr>
+            <tr>
+                <td colspan="2" align="center" >
+                    <input type="submit" value="Register">
+                    <input type="reset" value="Reset">
+                </td>
+            </tr>
+            
+            
+        </table>
+        
+    </form>
+    </body>
+</html>
+///
+//program 6 
+//<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
+
+    <title>CodeLearn - Programming Tutorials</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <!-- Header -->
+    <header>
+        <div class="logo">
+            <h1>CodeLearn</h1>
+            <p>Learn. Code. Grow.</p>
+        </div>
+
+        <nav>
+            <a href="#home">Home</a>
+            <a href="#tutorials">Tutorials</a>
+            <a href="#about">About</a>
+            <a href="#contact">Contact</a>
+        </nav>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero" id="home">
+
+        <div class="hero-text">
+            <h2>Learn Programming Easily</h2>
+
+            <p>
+                Learn HTML, CSS, JavaScript and programming
+                concepts through simple tutorials.
+            </p>
+
+            <a href="#tutorials" class="btn">
+                Explore Tutorials
+            </a>
+        </div>
+
+    </section>
+
+    <!-- Tutorials -->
+    <section class="section" id="tutorials">
+
+        <h2>Popular Tutorials</h2>
+
+        <p class="section-intro">
+            Start learning the most useful web technologies.
+        </p>
+
+        <div class="cards">
+
+            <article class="card">
+                <div class="icon">HTML</div>
+
+                <h3>HTML Tutorial</h3>
+
+                <p>
+                    Learn how to create webpages using HTML
+                    elements, headings, links, images and forms.
+                </p>
+
+                <a href="#">Read More →</a>
+            </article>
+
+
+            <article class="card">
+                <div class="icon">CSS</div>
+
+                <h3>CSS Tutorial</h3>
+
+                <p>
+                    Learn how to style webpages using colors,
+                    layouts, fonts, borders and responsive design.
+                </p>
+
+                <a href="#">Read More →</a>
+            </article>
+
+
+            <article class="card">
+                <div class="icon">JS</div>
+
+                <h3>JavaScript Tutorial</h3>
+
+                <p>
+                    Learn JavaScript and make webpages
+                    interactive and dynamic.
+                </p>
+
+                <a href="#">Read More →</a>
+            </article>
+
+
+            <article class="card">
+                <div class="icon">C++</div>
+
+                <h3>C++ Programming</h3>
+
+                <p>
+                    Learn programming fundamentals, functions,
+                    arrays, loops and object-oriented programming.
+                </p>
+
+                <a href="#">Read More →</a>
+            </article>
+
+        </div>
+
+    </section>
+
+    <!-- Features -->
+    <section class="features">
+
+        <div class="feature">
+            <h3>Easy Learning</h3>
+            <p>
+                Simple explanations and examples for beginners.
+            </p>
+        </div>
+
+        <div class="feature">
+            <h3>Practical Examples</h3>
+            <p>
+                Learn concepts through practical coding examples.
+            </p>
+        </div>
+
+        <div class="feature">
+            <h3>Learn Anywhere</h3>
+            <p>
+                Access tutorials from computers, tablets and phones.
+            </p>
+        </div>
+
+    </section>
+
+    <!-- About -->
+    <section class="section about" id="about">
+
+        <h2>About CodeLearn</h2>
+
+        <p>
+            CodeLearn is an educational website designed to help
+            students learn programming and web development.
+            Our tutorials focus on simple explanations and
+            practical examples.
+        </p>
+
+    </section>
+
+    <!-- Contact -->
+    <section class="contact" id="contact">
+
+        <h2>Contact Us</h2>
+
+        <p>Email: contact@codelearn.com</p>
+
+        <p>Phone: +91 9876543210</p>
+
+    </section>
+
+    <!-- Footer -->
+    <footer>
+
+        <p>
+            © 2026 CodeLearn. All Rights Reserved.
+        </p>
+
+    </footer>
+
+</body>
+</html>
+///style.css
+/* General */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f7fa;
+    color: #333;
+}
+
+
+/* Header */
+header {
+    background-color: #102a43;
+    color: white;
+    padding: 15px 8%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo h1 {
+    font-size: 28px;
+}
+
+.logo p {
+    font-size: 13px;
+    margin-top: 3px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin-left: 25px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #4fd1c5;
+}
+
+
+/* Hero */
+.hero {
+    min-height: 400px;
+    display: flex;
+    align-items: center;
+    padding: 50px 8%;
+    background-color: #dff6ff;
+}
+
+.hero-text {
+    max-width: 600px;
+}
+
+.hero h2 {
+    font-size: 42px;
+    color: #102a43;
+    margin-bottom: 20px;
+}
+
+.hero p {
+    font-size: 18px;
+    line-height: 1.7;
+    margin-bottom: 25px;
+}
+
+.btn {
+    display: inline-block;
+    background-color: #102a43;
+    color: white;
+    padding: 12px 22px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.btn:hover {
+    background-color: #1d4e89;
+}
+
+
+/* Common Section */
+.section {
+    max-width: 1100px;
+    margin: auto;
+    padding: 60px 20px;
+    text-align: center;
+}
+
+.section h2 {
+    font-size: 30px;
+    color: #102a43;
+    margin-bottom: 10px;
+}
+
+.section-intro {
+    margin-bottom: 30px;
+    color: #666;
+}
+
+
+/* Tutorial Cards */
+.cards {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+}
+
+.card {
+    background-color: white;
+    padding: 25px 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px #ccc;
+    text-align: left;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+}
+
+.icon {
+    background-color: #102a43;
+    color: white;
+    width: 65px;
+    height: 65px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    font-weight: bold;
+    margin-bottom: 18px;
+}
+
+.card h3 {
+    color: #102a43;
+    margin-bottom: 12px;
+}
+
+.card p {
+    line-height: 1.6;
+    font-size: 14px;
+    margin-bottom: 15px;
+}
+
+.card a {
+    color: #1d4e89;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+
+/* Features */
+.features {
+    display: flex;
+    gap: 20px;
+    padding: 50px 8%;
+    background-color: #102a43;
+    color: white;
+    text-align: center;
+}
+
+.feature {
+    flex: 1;
+    padding: 20px;
+}
+
+.feature h3 {
+    margin-bottom: 12px;
+}
+
+.feature p {
+    line-height: 1.6;
+}
+
+
+/* About */
+.about {
+    max-width: 800px;
+}
+
+.about p {
+    margin-top: 20px;
+    line-height: 1.8;
+}
+
+
+/* Contact */
+.contact {
+    background-color: #dff6ff;
+    text-align: center;
+    padding: 50px 20px;
+}
+
+.contact h2 {
+    color: #102a43;
+    margin-bottom: 15px;
+}
+
+.contact p {
+    margin: 8px;
+}
+
+
+/* Footer */
+footer {
+    background-color: #081c2c;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+
+/* Responsive Design */
+@media screen and (max-width: 900px) {
+
+    header {
+        padding: 15px 4%;
+    }
+
+    .cards {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .hero h2 {
+        font-size: 36px;
+    }
+}
+
+
+@media screen and (max-width: 600px) {
+
+    /* Header becomes vertical */
+    header {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    nav {
+        margin-top: 15px;
+    }
+
+    nav a {
+        display: inline-block;
+        margin: 5px;
+    }
+
+    /* Hero */
+    .hero {
+        min-height: 350px;
+        padding: 40px 20px;
+        text-align: center;
+    }
+
+    .hero h2 {
+        font-size: 30px;
+    }
+
+    .hero p {
+        font-size: 16px;
+    }
+
+    /* Cards become one column */
+    .cards {
+        grid-template-columns: 1fr;
+    }
+
+    /* Features become vertical */
+    .features {
+        flex-direction: column;
+        padding: 40px 20px;
+    }
+
+    .feature {
+        border-bottom: 1px solid #456;
+    }
+}
+//
+///program 7 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>CSS Types Demonstration</title>
+
+    <!-- External CSS -->
+    <link rel="stylesheet" href="style.css">
+
+    <!-- Internal CSS -->
+    <style>
+        .internal {
+            background-color: lightgreen;
+            color: darkgreen;
+            padding: 15px;
+            border: 2px solid green;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>Demonstration of Different Types of CSS</h1>
+
+    <!-- Inline CSS -->
+    <p style="background-color: lightblue; color: blue; padding: 15px;">
+        This paragraph uses Inline CSS.
+    </p>
+
+    <!-- Internal CSS -->
+    <p class="internal">
+        This paragraph uses Internal CSS.
+    </p>
+
+    <!-- External CSS -->
+    <p class="external">
+        This paragraph uses External CSS.
+    </p>
+
+    <!-- Imported CSS -->
+    <p class="imported">
+        This paragraph uses Imported CSS.
+    </p>
+
+</body>
+</html>
+///
+//style.css
+/* External CSS */
+
+.external {
+    background-color: lightyellow;
+    color: brown;
+    padding: 15px;
+    border: 2px solid orange;
+}
+//
+///import.css
+/* Imported CSS */
+
+.imported {
+    background-color: pink;
+    color: darkred;
+    padding: 15px;
+    border: 2px solid red;
+}
+///
+//program 8
+//student.xml
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE students SYSTEM "student.dtd">
+
+<?xml-stylesheet type="text/css" href="student.css"?>
+
+<students>
+    <student>
+        <rollno>101</rollno>
+        <name>Harshit Singh</name>
+        <branch>CSE</branch>
+        <year>2</year>
+        <college>UCER</college>
+    </student>
+
+    <student>
+        <rollno>102</rollno>
+        <name>Rahul Kumar</name>
+        <branch>CSE</branch>
+        <year>2</year>
+        <college>UCER</college>
+    </student>
+</students>
+//student.dtd
+<!ELEMENT students (student+)>
+
+<!ELEMENT student (rollno, name, branch, year, college)>
+
+<!ELEMENT rollno (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT branch (#PCDATA)>
+<!ELEMENT year (#PCDATA)>
+<!ELEMENT college (#PCDATA)>
+//student.css
+students {
+    display: block;
+    font-family: Arial;
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+
+student {
+    display: block;
+    background-color: white;
+    border: 2px solid black;
+    margin: 15px;
+    padding: 15px;
+    width: 350px;
+}
+
+rollno, name, branch, year, college {
+    display: block;
+    margin: 5px;
+}
+
+rollno {
+    color: blue;
+}
+
+name {
+    color: red;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+branch {
+    color: green;
+}
+
+year {
+    color: purple;
+}
+
+college {
+    color: brown;
+}
+// program 9
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Factorial Calculator</title>
+
+    <script>
+        function calculateFactorial(event) {
+            event.preventDefault();
+
+            let num = parseInt(document.getElementById("number").value);
+            let factorial = 1;
+
+            if (num < 0) {
+                document.getElementById("result").value =
+                    "Factorial not defined";
+                return;
+            }
+
+            for (let i = 1; i <= num; i++) {
+                factorial = factorial * i;
+            }
+
+            document.getElementById("result").value = factorial;
+        }
+    </script>
+</head>
+
+<body>
+
+    <h2>Factorial Calculator</h2>
+
+    <form onsubmit="calculateFactorial(event)">
+        <label>Enter a number:</label>
+        <input type="number" id="number" required>
+
+        <br><br>
+
+        <input type="submit" value="Calculate">
+
+        <br><br>
+
+        <label>Factorial:</label>
+        <input type="text" id="result" readonly>
+    </form>
+
+</body>
+</html>
+//program 10
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Browser Information</title>
+
+    <style>
+        body {
+            font-family: Arial;
+            margin: 40px;
+        }
+
+        table {
+            border-collapse: collapse;
+            width: 600px;
+        }
+
+        th, td {
+            border: 1px solid black;
+            padding: 10px;
+            text-align: left;
+        }
+
+        th {
+            background-color: lightgray;
+        }
+    </style>
+
+    <script>
+        function displayBrowserInfo() {
+
+            document.getElementById("browser").innerHTML =
+                navigator.appName;
+
+            document.getElementById("version").innerHTML =
+                navigator.appVersion;
+
+            document.getElementById("platform").innerHTML =
+                navigator.platform;
+
+            document.getElementById("useragent").innerHTML =
+                navigator.userAgent;
+
+            document.getElementById("language").innerHTML =
+                navigator.language;
+
+            document.getElementById("online").innerHTML =
+                navigator.onLine ? "Online" : "Offline";
+
+            document.getElementById("cookies").innerHTML =
+                navigator.cookieEnabled ? "Enabled" : "Disabled";
+        }
+    </script>
+</head>
+
+<body onload="displayBrowserInfo()">
+
+    <h2>User Browser Information</h2>
+
+    <table>
+        <tr>
+            <th>Information</th>
+            <th>Details</th>
+        </tr>
+
+        <tr>
+            <td>Browser Name</td>
+            <td id="browser"></td>
+        </tr>
+
+        <tr>
+            <td>Browser Version</td>
+            <td id="version"></td>
+        </tr>
+
+        <tr>
+            <td>Platform</td>
+            <td id="platform"></td>
+        </tr>
+
+        <tr>
+            <td>User Agent</td>
+            <td id="useragent"></td>
+        </tr>
+
+        <tr>
+            <td>Language</td>
+            <td id="language"></td>
+        </tr>
+
+        <tr>
+            <td>Internet Connection</td>
+            <td id="online"></td>
+        </tr>
+
+        <tr>
+            <td>Cookies</td>
+            <td id="cookies"></td>
+        </tr>
+    </table>
+
+</body>
+</html>
+//
+//program 11
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Form Validation</title>
+
+    <style>
+        form {
+            background-color: aqua;
+            font-size: large;
+            color: white;
+            padding: 20px;
+            border-radius: 10px;
+            max-width: 350px;
+            margin: auto;
+        }
+    </style>
+
+    <script>
+        function validationForm() {
+
+            let name = document.getElementById("a").value;
+            let mobile = document.getElementById("b").value;
+            let email = document.getElementById("e").value;
+            let password = document.getElementById("c").value;
+
+            // Name validation
+            let namePattern = /^[A-Za-z\s]+$/;
+
+            if (name === "") {
+                alert("Name cannot be blank");
+                return false;
+            }
+
+            if (!namePattern.test(name)) {
+                alert("Name must contain alphabets and whitespace only");
+                return false;
+            }
+
+            // Mobile number validation
+            let mobilePattern = /^[0-9]{10}$/;
+
+            if (!mobilePattern.test(mobile)) {
+                alert("Mobile number must contain exactly 10 digits");
+                return false;
+            }
+
+            // Email validation
+            let emailPattern = /^[^@]+@[^@]+$/;
+
+            if (!emailPattern.test(email)) {
+                alert("Email must contain exactly one @");
+                return false;
+            }
+
+            if (!email.endsWith("@united.ac.in")) {
+                alert("Email domain must be united.ac.in");
+                return false;
+            }
+
+            // Password validation
+            let passwordPattern =
+                /^(?=.*[A-Za-z])(?=.*[0-9])(?=.*[!@#$%&*]).+$/;
+
+            if (!passwordPattern.test(password)) {
+                alert("Password must contain at least one alphabet, one digit and one special character (!@#$%&*)");
+                return false;
+            }
+
+            alert("Form submitted successfully!");
+            return true;
+        }
+    </script>
+</head>
+
+<body>
+
+    <form onsubmit="return validationForm();" method="post">
+
+        Name:
+        <input type="text" id="a">
+        <br><br>
+
+        Mobile Number:
+        <input type="text" id="b">
+        <br><br>
+
+        Password:
+        <input type="password" id="c">
+        <br><br>
+
+        Email ID:
+        <input type="text" id="e">
+        <br><br>
+
+        <input type="submit" value="Submit">
+
+    </form>
+
+</body>
+</html>
+//
+///program 12
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>AJAX Data Fetch</title>
+
+    <script>
+        function loadData() {
+
+            let xhttp = new XMLHttpRequest();
+
+            xhttp.onreadystatechange = function() {
+
+                if (this.readyState == 4 && this.status == 200) {
+                    document.getElementById("data").innerHTML =
+                        this.responseText;
+                }
+            };
+
+            xhttp.open("GET", "data.txt", true);
+            xhttp.send();
+        }
+    </script>
+</head>
+
+<body>
+
+    <h2>AJAX Example</h2>
+
+    <button onclick="loadData()">Load Data</button>
+
+    <div id="data">
+        Data will appear here...
+    </div>
+
+</body>
+</html>
+// data.txt
+Welcome to AJAX!
+
+AJAX stands for Asynchronous JavaScript and XML.
+
+It allows a webpage to fetch data from a server
+without refreshing the entire webpage.
