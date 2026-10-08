@@ -1,0 +1,123 @@
+  
+<html>
+<head>
+    <title>Faculty Registration Form</title>
+</head>
+
+<body bgcolor="lightseagreen">
+
+<center>
+
+<h1>Faculty Registration Form</h1>
+
+<form action="frame.html" method="post">
+
+<table  cellpadding="12" cellspacing="8"
+       bgcolor="slategray"
+       style="border-radius:25px;" >
+
+<tr>
+    <td>Faculty Name</td>
+    <td>
+        <input type="text" name="Faculty_name">
+    </td>
+</tr>
+
+<tr>
+    <td>Faculty ID</td>
+    <td>
+        <input type="text" name="Faculty_id" >
+    </td>
+</tr>
+
+<tr>
+    <td>Email ID</td>
+    <td>
+        <input type="email" name="Email_id" size="30">
+    </td>
+</tr>
+
+<tr>
+    <td>Mobile Number</td>
+    <td>
+        <input type="tel" name="Mobile_number" size="30">
+    </td>
+</tr>
+
+<tr>
+    <td>Date of Joining</td>
+    <td>
+        <input type="date" name="Date_of_Joining">
+    </td>
+</tr>
+
+<tr>
+    <td>Gender</td>
+    <td>
+        <input type="radio" name="gender" value="male"> Male
+        <input type="radio" name="gender" value="female"> Female
+        <input type="radio" name="gender" value="other"> Other
+    </td>
+</tr>
+
+<tr>
+    <td>Department</td>
+    <td>
+        <select name="Department">
+            <option>Computer Science & Engineering</option>
+            <option>Information Technology</option>
+            <option>Artificial Intelligence</option>
+            <option>Electronics & Communication</option>
+            <option>Mechanical Engineering</option>
+        </select>
+    </td>
+</tr>
+
+<tr>
+    <td>Designation</td>
+    <td>
+        <select name="Designation">
+            <option>Professor</option>
+            <option>Associate Professor</option>
+            <option>Assistant Professor</option>
+            <option>Lecturer</option>
+        </select>
+    </td>
+</tr>
+
+<tr>
+    <td>Qualification</td>
+    <td>
+        <input type="text" name="Qualification" size="30">
+    </td>
+</tr>
+
+<tr>
+    <td>Address</td>
+    <td>
+        <textarea name="Address" rows="4" cols="30"></textarea>
+    </td>
+</tr>
+
+<tr>
+    <td>Faculty Photo</td>
+    <td>
+        <input type="file" name="Faculty_photo">
+    </td>
+</tr>
+
+<tr>
+    <td colspan="2" align="center">
+        <input type="submit" value="Register">
+        <input type="reset" value="Reset">
+    </td>
+</tr>
+
+</table>
+
+</form>
+
+</center>
+
+</body>
+</html>

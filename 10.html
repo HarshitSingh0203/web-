@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Browser Information</title>
+
+    <style>
+        body {
+            font-family: Arial;
+            margin: 40px;
+        }
+
+        table {
+            border-collapse: collapse;
+            width: 600px;
+        }
+
+        th, td {
+            border: 1px solid black;
+            padding: 10px;
+            text-align: left;
+        }
+
+        th {
+            background-color: lightgray;
+        }
+    </style>
+
+    <script>
+        function displayBrowserInfo() {
+
+            document.getElementById("browser").innerHTML =
+                navigator.appName;
+
+            document.getElementById("version").innerHTML =
+                navigator.appVersion;
+
+            document.getElementById("platform").innerHTML =
+                navigator.platform;
+
+            document.getElementById("useragent").innerHTML =
+                navigator.userAgent;
+
+            document.getElementById("language").innerHTML =
+                navigator.language;
+
+            document.getElementById("online").innerHTML =
+                navigator.onLine ? "Online" : "Offline";
+
+            document.getElementById("cookies").innerHTML =
+                navigator.cookieEnabled ? "Enabled" : "Disabled";
+        }
+    </script>
+</head>
+
+<body onload="displayBrowserInfo()">
+
+    <h2>User Browser Information</h2>
+
+    <table>
+        <tr>
+            <th>Information</th>
+            <th>Details</th>
+        </tr>
+
+        <tr>
+            <td>Browser Name</td>
+            <td id="browser"></td>
+        </tr>
+
+        <tr>
+            <td>Browser Version</td>
+            <td id="version"></td>
+        </tr>
+
+        <tr>
+            <td>Platform</td>
+            <td id="platform"></td>
+        </tr>
+
+        <tr>
+            <td>User Agent</td>
+            <td id="useragent"></td>
+        </tr>
+
+        <tr>
+            <td>Language</td>
+            <td id="language"></td>
+        </tr>
+
+        <tr>
+            <td>Internet Connection</td>
+            <td id="online"></td>
+        </tr>
+
+        <tr>
+            <td>Cookies</td>
+            <td id="cookies"></td>
+        </tr>
+    </table>
+
+</body>
+</html>

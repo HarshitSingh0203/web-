@@ -1,0 +1,74 @@
+<html>
+    <head>
+        <title>Student Registration Form  </title>
+    </head>
+    <body bgcolor="lightblue">
+        <center>
+            <h2> Registration Form </h2>
+            <form action="frame.html" method="post">
+            <table bgcolor="slategray"  cellpadding="12" cellspacing="8" style="border-radius: 25px;">
+            <tr>
+                <td>Name of Student</td>
+                <td><input type="text" name="first_name"></td>
+            </tr>
+            <tr>
+                <td>Login ID</td>
+                <td><input type="text" name="login_id"></td>
+            </tr>
+            <tr>
+                <td>Father's Name</td>
+                <td><input type="text" name="father_name"></td>
+            </tr>
+            <tr>
+                <td>Password</td>
+                <td><input type="password" name="password"></td>
+            </tr>
+            <tr>
+                <td>Mother's Name</td>
+                <td><input type="text" name="mother_name"></td>
+            </tr>
+            <tr>
+                <td>Date of Birth</td>
+                <td><input type="date" name="dob"></td>
+            </tr>
+            <tr>
+                <td>Gender</td>
+                <td>
+                    <input type="radio" name="gender" value="male"> Male
+                    <input type="radio" name="gender" value="female"> Female
+                    <input type="radio" name="gender" value="other"> Other
+                </td>
+            </tr>
+            <tr>
+                <td>Course</td>
+                <td>
+                    <select name="course">
+                        <option >Computer Science</option>
+                        <option >Artificial Intelligence</option>
+                        <option >Information Technology</option>
+                        <option >Machine Learning</option>
+                        <option > Mechanical Engineering</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td>Passport Size Image</td>
+                <td><input type="file" name="passport_image"></td>
+            </tr>
+            <tr>
+                <td>Address</td>
+                <td><textarea name="address"></textarea></td>
+            </tr>
+            <tr>
+                <td colspan="2" align="center" >
+                    <input type="submit" value="Register">
+                    <input type="reset" value="Reset">
+                </td>
+            </tr>
+            
+            
+        </table>
+        
+    </form>
+    </body>
+</html>

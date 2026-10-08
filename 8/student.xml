@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE students SYSTEM "student.dtd">
+
+<?xml-stylesheet type="text/css" href="student.css"?>
+
+<students>
+    <student>
+        <rollno>101</rollno>
+        <name>Harshit Singh</name>
+        <branch>CSE</branch>
+        <year>2</year>
+        <college>UCER</college>
+    </student>
+
+    <student>
+        <rollno>102</rollno>
+        <name>Rahul Kumar</name>
+        <branch>CSE</branch>
+        <year>2</year>
+        <college>UCER</college>
+    </student>
+</students>

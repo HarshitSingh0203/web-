@@ -1,0 +1,6 @@
+Welcome to AJAX!
+
+AJAX stands for Asynchronous JavaScript and XML.
+
+It allows a webpage to fetch data from a server
+without refreshing the entire webpage.

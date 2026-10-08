@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Factorial Calculator</title>
+
+    <script>
+        function calculateFactorial(event) {
+            event.preventDefault();
+
+            let num = parseInt(document.getElementById("number").value);
+            let factorial = 1;
+
+            if (num < 0) {
+                document.getElementById("result").value =
+                    "Factorial not defined";
+                return;
+            }
+
+            for (let i = 1; i <= num; i++) {
+                factorial = factorial * i;
+            }
+
+            document.getElementById("result").value = factorial;
+        }
+    </script>
+</head>
+
+<body>
+
+    <h2>Factorial Calculator</h2>
+
+    <form onsubmit="calculateFactorial(event)">
+        <label>Enter a number:</label>
+        <input type="number" id="number" required>
+
+        <br><br>
+
+        <input type="submit" value="Calculate">
+
+        <br><br>
+
+        <label>Factorial:</label>
+        <input type="text" id="result" readonly>
+    </form>
+
+</body>
+</html>
